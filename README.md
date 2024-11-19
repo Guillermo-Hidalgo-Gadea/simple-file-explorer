@@ -40,10 +40,6 @@ Creates structured project wikis: Supports a text-based approach to project orga
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-
-TBD
-
 ## Acknowledgements
 
 - [Pillow](https://python-pillow.org/) for image processing.
